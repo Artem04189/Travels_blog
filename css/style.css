@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1400px;
+}
+.ul{
+    max-width: 700px;
+    position: relative;
+    left: 600px;
+    top: 20px;
+    
+}
+.ul1{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.LogoDiv{
+    position: relative;
+    left: 100px;
+    top: 45px;
+}
+.section1{
+    margin-top: 25px;
+}
+h1{
+    width: 550px;
+    height: 300px;
+    font-size: 55px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.div1{
+    width: 550px;
+    height: 300px;
+    font-size: 25px;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.PhotoD1 > img{
+    width: 650px;
+    height: 800px;
+    position: relative;
+    top: -800px;
+    left: 650px;
+}
+.imgK{
+    width: 270px;
+    height: 370px;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -700px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+.div2{
+    width: 400px;
+    height: 300px;
+    font-size: 20px;
+}
+.s1{
+    width: 400px;
+    height: 250px;
+}
+.s2{
+    width: 200px;
+    height: 250px;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+}
+.section4{
+    margin-top: 100px;
+}
+.last{
+    width: 1200px;
+    height: 900px;
+}
+.lastSD{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo2{
+    margin-left: 100px;
+}
+.lastD{
+    margin-right: 100px;
+}
